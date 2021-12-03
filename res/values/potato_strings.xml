@@ -30,28 +30,18 @@
     <string name="screenshot_shutter_sound_title">Screenshot sound</string>
 =======
     <!-- ArrowOS Installation Stats -->
-    <string name="arrow_stats_title">ArrowOS Stats</string>
-    <string name="arrow_stats_summary">Just counting how many devices we run on</string>
+    <string name="potato_stats_title">POSP Stats</string>
+    <string name="potato_stats_summary">Just counting how many devices we run on</string>
 
     <!-- Refresh rate -->
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-    <string name="refresh_rate_title">Screen refresh rate</string>
->>>>>>> b5067bfe58... Settings: Add preference for KEY_MIN_REFRESH_RATE
-=======
     <string name="min_refresh_rate_title">Minimum refresh rate</string>
     <string name="max_refresh_rate_title">Maximum refresh rate</string>
 >>>>>>> cd4e7fc110... Settings: Add preference for maximum screen refresh rate
 =======
     <string name="refresh_rate_title">Screen refresh rate</string>
->>>>>>> b5067bfe58... Settings: Add preference for KEY_MIN_REFRESH_RATE
-=======
-    <string name="min_refresh_rate_title">Minimum refresh rate</string>
-    <string name="max_refresh_rate_title">Maximum refresh rate</string>
-<<<<<<< HEAD
->>>>>>> cd4e7fc110... Settings: Add preference for maximum screen refresh rate
-=======
     <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
     <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
 >>>>>>> aa9ba55e17... Settings: Add toggle for 60Hz refresh rate on battery saver

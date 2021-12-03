@@ -25,7 +25,6 @@
 =======
     <!-- Whether to show min/max refresh rate in display settings -->
     <bool name="config_show_refresh_rate_controls">false</bool>
->>>>>>> cd4e7fc110... Settings: Add preference for maximum screen refresh rate
 
     <!-- TODO: This is purely enforced by the interface, and does not affect what
          strings may be inserted into the actual content provider.
