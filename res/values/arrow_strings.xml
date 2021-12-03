@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019 Potato Open Sauce Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- POSP version in About phone -->
+    <string name="potato_version_title">POSP version</string>
+
+    <!-- Build types, now with translations -->
+    <string name="build_type">Build Type</string>
+    <string name="potato_cheesy">Cheesy (Official release)</string>
+    <string name="potato_mashed">Mashed (Open beta)</string>
+    <string name="potato_salad">Salad (Internal build)</string>
+    <string name="potato_unofficial">Community (Unofficial build)</string>
+
+    <!-- Device Model -->
+    <string name="potato_device_model">Device Model</string>
+
+<<<<<<< HEAD
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">Screenshot sound</string>
+=======
+    <!-- ArrowOS Installation Stats -->
+    <string name="arrow_stats_title">ArrowOS Stats</string>
+    <string name="arrow_stats_summary">Just counting how many devices we run on</string>
+
+    <!-- Refresh rate -->
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <string name="refresh_rate_title">Screen refresh rate</string>
+>>>>>>> b5067bfe58... Settings: Add preference for KEY_MIN_REFRESH_RATE
+=======
+    <string name="min_refresh_rate_title">Minimum refresh rate</string>
+    <string name="max_refresh_rate_title">Maximum refresh rate</string>
+>>>>>>> cd4e7fc110... Settings: Add preference for maximum screen refresh rate
+=======
+    <string name="refresh_rate_title">Screen refresh rate</string>
+>>>>>>> b5067bfe58... Settings: Add preference for KEY_MIN_REFRESH_RATE
+=======
+    <string name="min_refresh_rate_title">Minimum refresh rate</string>
+    <string name="max_refresh_rate_title">Maximum refresh rate</string>
+<<<<<<< HEAD
+>>>>>>> cd4e7fc110... Settings: Add preference for maximum screen refresh rate
+=======
+    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
+    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+>>>>>>> aa9ba55e17... Settings: Add toggle for 60Hz refresh rate on battery saver
+</resources>
