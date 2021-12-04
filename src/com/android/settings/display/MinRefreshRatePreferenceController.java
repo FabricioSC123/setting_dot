@@ -46,15 +46,7 @@ public class MinRefreshRatePreferenceController extends BasePreferenceController
 
     @Override
     public int getAvailabilityStatus() {
-<<<<<<< HEAD
-<<<<<<< HEAD
         return mContext.getResources().getBoolean(R.bool.config_show_refresh_rate_controls) &&
-=======
-        return mContext.getResources().getBoolean(R.bool.config_show_min_refresh_rate_switch) &&
->>>>>>> b5067bfe58... Settings: Add preference for KEY_MIN_REFRESH_RATE
-=======
-        return mContext.getResources().getBoolean(R.bool.config_show_refresh_rate_controls) &&
->>>>>>> cd4e7fc110... Settings: Add preference for maximum screen refresh rate
                 mListPreference != null && mListPreference.getEntries().length > 1
                         ? AVAILABLE : UNSUPPORTED_ON_DEVICE;
     }
