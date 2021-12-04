@@ -18,9 +18,4 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="cell_broadcast_settings" msgid="6933671701347224770">"Abisu publikoak"</string>
-=======
-    <!-- Whether to show min refresh rate in display settings -->
-    <bool name="config_show_min_refresh_rate_switch">false</bool>
-
->>>>>>> b5067bfe58... Settings: Add preference for KEY_MIN_REFRESH_RATE:res/values/arrow_configs.xml
 </resources>
