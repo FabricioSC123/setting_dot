@@ -117,27 +117,11 @@
 
         <ListPreference
     	    android:key="min_refresh_rate"
-<<<<<<< HEAD
-<<<<<<< HEAD
             android:title="@string/min_refresh_rate_title"
             android:summary="@string/summary_placeholder"
             settings:controller="com.android.settings.display.MinRefreshRatePreferenceController" />
 
-    <ListPreference
-=======
-      	    android:title="@string/refresh_rate_title"
-            android:summary="@string/summary_placeholder"
-            settings:controller="com.android.settings.display.MinRefreshRatePreferenceController" />
-
-        <SwitchPreference
->>>>>>> b5067bfe58... Settings: Add preference for KEY_MIN_REFRESH_RATE
-=======
-            android:title="@string/min_refresh_rate_title"
-            android:summary="@string/summary_placeholder"
-            settings:controller="com.android.settings.display.MinRefreshRatePreferenceController" />
-
-    <ListPreference
->>>>>>> cd4e7fc110... Settings: Add preference for maximum screen refresh rate
+        <ListPreference
             android:key="peak_refresh_rate"
             android:title="@string/max_refresh_rate_title"
             android:summary="@string/summary_placeholder"
